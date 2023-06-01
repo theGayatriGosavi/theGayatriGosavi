@@ -12,7 +12,7 @@
   <br>
   <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" align="left" alt="Tech Stack GIF">
   <br>
-  <br>
+  <br> <h3 align="left" width="50%' height="100%" font="Mona Sans">&nbsp;&nbsp;📫 How to reach me <a href="thegayatrigosavi@gmail.com"> thegayatrigosavi@gmail.com </a> </h3>
   <h3 align="left" width="50%' height="100%" font="Mona Sans">&nbsp;&nbsp;   ✏ Currently I'm working on a web development project <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;               called MediSearch which seaches for doctors, clinics,  <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;               hospitals in particular location entered by the user and  <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;               makes appointments too.</h3>
   <h3 align="left" width="50%' height="100%" font="Mona Sans">&nbsp;&nbsp;   ✏ Recently, I've started learning NodeJS and MongoDB.</h3>
 <h3 align="left" width="50%' height="100%" font="Mona Sans">&nbsp;&nbsp;   ✏I like watching/playing badminton in my free time.</h3>
