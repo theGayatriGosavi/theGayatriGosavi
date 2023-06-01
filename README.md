@@ -1,13 +1,10 @@
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Mona+Sans&weight=200&size=26&pause=1000&color=2B8A3E&background=EBFBEE00&vCenter=true&width=437&lines=Welcome+to+my+GitHub+profile+!+;%40theGayatriGosavi;%F0%9F%91%8B+Hello%2C+This+is+Gayatri++%E2%98%BA)](https://git.io/typing-svg)
 <p>
   <div style="display: flex; justify-content: center;">
   <img src="https://camo.githubusercontent.com/77971436de10fd1707510a120094781a8a4fe68e79d4159d0bb1168161923470/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313230302f302a4b32574c4d5445784c79696461374f522e676966" align="right" width="30%" height="40%" alt="Hello GIF" style="margin-top: -200px;">
 </div>
-  <h2 allign="left" width="50%' height="100%" font="Mona Sans"> 🧩I'm enthusiastic about leveraging technology to <br>&nbsp;&nbsp;&nbsp;&nbsp;       solve real-world problems and create meaningful <br> &nbsp;&nbsp;&nbsp;&nbsp;        experiences.<br>🧩I'm passionate about coding, innovation, and <br> &nbsp;&nbsp;&nbsp;&nbsp;        pushing boundaries.
-<br> 
-<br>
-<br>
+  <h2 allign="left" width="50%' height="100%" font="Mona Sans"> 🧩 I am a lifelong learner, always seeking to expand my <br> &nbsp;&nbsp;&nbsp;&nbsp;        knowledge and skills.
+  <br>🧩I'm enthusiastic about leveraging technology to <br>&nbsp;&nbsp;&nbsp;&nbsp;       solve real-world problems and create meaningful <br> &nbsp;&nbsp;&nbsp;&nbsp;        experiences.<br>🧩I'm passionate about coding, innovation, and <br> &nbsp;&nbsp;&nbsp;&nbsp;        pushing boundaries.
 <br>
 <br> 📫 How to reach me <a href="thegayatrigosavi@gmail.com"> thegayatrigosavi@gmail.com </a> </h3>
 </h2>
