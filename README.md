@@ -5,12 +5,11 @@
   <img src="https://camo.githubusercontent.com/77971436de10fd1707510a120094781a8a4fe68e79d4159d0bb1168161923470/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313230302f302a4b32574c4d5445784c79696461374f522e676966" align="right" width="40%" height="50%" alt="Hello GIF" style="margin-top: -200px;">
 </div>
   <h2 allign="left" width="50%' height="100%" font="Mona Sans"> 🧩I'm enthusiastic about leveraging technology to <br>&nbsp;&nbsp;&nbsp;&nbsp;       solve real-world problems and create meaningful <br> &nbsp;&nbsp;&nbsp;&nbsp;        experiences.<br>🧩I'm passionate about coding, innovation, and <br> &nbsp;&nbsp;&nbsp;&nbsp;        pushing boundaries.
+<br> 
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
+<br> 📫 How to reach me <a href="thegayatrigosavi@gmail.com"> thegayatrigosavi@gmail.com </a> </h3>
 </h2>
 <p>
 
@@ -18,7 +17,6 @@
   <br>
   <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" align="left" alt="Tech Stack GIF">
   <br>
-  <br> <h3 align="left" width="50%' height="100%" font="Mona Sans">&nbsp;&nbsp;📫 How to reach me <a href="thegayatrigosavi@gmail.com"> thegayatrigosavi@gmail.com </a> </h3>
   <h3 align="left" width="50%' height="100%" font="Mona Sans">&nbsp;&nbsp;   ✏ Currently I'm working on a web development project <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;               called MediSearch which seaches for doctors, clinics,  <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;               hospitals in particular location entered by the user and  <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;               makes appointments too.</h3>
   <h3 align="left" width="50%' height="100%" font="Mona Sans">&nbsp;&nbsp;   ✏ Recently, I've started learning NodeJS and MongoDB.</h3>
 <h3 align="left" width="50%' height="100%" font="Mona Sans">&nbsp;&nbsp;   ✏I like watching/playing badminton in my free time.</h3>
